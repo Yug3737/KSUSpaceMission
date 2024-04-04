@@ -74,7 +74,10 @@
 - 
 ### What is Telemetry?
 - The process of gathering performance data of a product and relaying it to a remote location for monitoring and analysis.
-- 
 
+
+## KSU Space Mission APRS
+- Check if we have smart beaconing. Can it adjust the rate based on speed and direction of the vehicle. 
+- 
 ## Resources
 - 
